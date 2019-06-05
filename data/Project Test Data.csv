@@ -1,0 +1,16 @@
+﻿movie_id,movie_name,year_made,language,lead_actor,lead_actress,director,music_director,other_cast,status,images
+1,Black Panther,2018,English,Chadwick Boseman,Lupita Nyong'o,Ryan Coogler,Ludwig Goransson,Michael B. Jordan,Active,black_panther.jpg
+2,Get Out,2017,English,Daniel Kaluuya,Allison Williams,Jordan Peele,Michael Ables,Bradley Whitford,Active,get_out.jpg
+3,Crazy Rich Asians,2018,English,Henry Golding,Constance Wu,Jon M. Chu,Brian Tyler,Gemma Chan,Active,crazy_asians.jpg
+4,Titanic,1997,English,Leonardo DiCaprio,Kate Winslet,James Cameron,James Horner,Billy Zane,Active,titanic_titanic.jpg
+5,The Dark Knight,2008,English,Christian Bale,Maggie Gyllenhaal,Christopher Nolan,Hans Zimmer,Heath Ledger,Active,the_knight.jpg
+6,Avengers,2012,English,Robert Downey Jr.,Scarlett Johansson,Joss Whedon,Alan Silvestri,Samuel L. Jackson,Active,avengers_avengers.jpg
+7,Pulp Fiction,1994,English,John Travolta,Uma Thurman,Quentin Tarantino,None,Samuel L. Jackson,Active,pulp_fiction.jpg
+8,Toy Story,1995,English,Tom Hanks,Annie Potts,John Lasseter,Randy Newman,Tim Allen,Active,toy_story.jpg
+9,Forest Gump,1994,English,Tom Hanks,Robin Wright,Robert Zemeckis,Alan Silvestri,Gary Sinese,Active,forest_gump.jpg
+10,Schindlers List,1993,English,Liam Neeson,Carline Goodall,Steven Spielberg,John Williams,Ben Kingsley,Active,schindlers_list.jpg
+11,GoodFellas,1990,English,Robert De Niro,Lorraine Bracco,Martin Scorsese,Pete Townshend,Ray Liotta,Active,goodfellas_goodfellas.jpg
+12,Rocky,1976,English,Sylvester Stallone,Talia Shire,John G. Avildsen,Irwin Winkler,Burt Young,Active,rocky_rocky.jpg
+13,Gone With the Wind,1939,English,Clark Gable,Vivien Leigh,Victor Fleming,Max Steiner,Leslie Howard,Active,gone_wind.jpg
+14,Citizen Kane,1941,English,Orson Welles,Dorothy Comingore,Orson Welles,Bernard Herrmann,Everett Sloane,Active,citizen_kane.jpg
+15,The Shining,1980,English,Jack Nicholson,Shelley Duvall,Stanley Kubrick,Wendy Carlos,Scatman Crothers,Active,the_shining.jpg

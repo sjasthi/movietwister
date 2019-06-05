@@ -1,0 +1,12 @@
+
+*************************
+READ ME
+*************************
+
+1. Unzip all files
+2. Go into PHPMYADMIN and create a Database titled "movies_db"
+3. Import SQL file located in "data" folder titled "movies_db.sql"
+4. Initiate the application by typing "localhost/moviesdb" into the address bar of your browser
+5. Admin Function
+	- email = "admin@moviesdb.com"
+	- psswd = "12345"
